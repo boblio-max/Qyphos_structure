@@ -15,7 +15,7 @@ Qyphos Structure is a lightweight, educational quantum computing emulator writte
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/quantum-leap-emulator.git](https://github.com/your-username/quantum-leap-emulator.git)
+    git clone [https://github.com/boblio-max/Qyphos_structure.git](https://github.com/boblio-max/Qyphos_structure.git)
     cd quantum-leap-emulator
     ```
 
