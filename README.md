@@ -1,6 +1,6 @@
-# QuantumLeap: A Python Quantum Computer Emulator
+# Qyphos Structure: A Python Quantum Computer Emulator
 
-QuantumLeap is a lightweight, educational quantum computing emulator written in Python. It uses NumPy for efficient state vector simulation and provides a clean, object-oriented API for building and running quantum circuits.
+Qyphos Structure is a lightweight, educational quantum computing emulator written in Python. It uses NumPy for efficient state vector simulation and provides a clean, object-oriented API for building and running quantum circuits.
 
 ## Features
 
